@@ -1,8 +1,8 @@
 {
-  "name": "gulp-min",
+  "name": "gulp-addSuffix",
   "version": "1.0.0",
-  "description": "add .min in html script",
-  "main": "gulpfile.js",
+  "description": "Add suffix for fileName and refresh fileName in html links.",
+  "main": "index.js",
   "dependencies": {
     "fs": "0.0.1-security",
     "gulp-util": "^3.0.7",
